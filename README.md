@@ -1,13 +1,11 @@
 # Sistema Tarefas
-
+<br>
 # Descrição
 
 API WEB ASP.NET CORE 6- (C#) <br>
 SQL SERVER 2022 / SSMS 19 RELACIONAL <br>
 EF CORE POWER TOOLS <br>
 SWAGGER  <br>
-AUTO MAPPER <br>
-POSTMAN
 
 <br>
 
